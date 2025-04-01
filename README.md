@@ -8,7 +8,7 @@
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHphOGRkcDc4dnQ2bWR4NnBqeHNiZXNsNmFqOTlseWcxMW83OHNldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
     <p align="left"> <img <h3 align="left">Languages and Tools:</h3>
     <div>
-                <p <a align="left" href="chetan730366@gmail.com">chetan730366@gmail.com <a/> </p>
+                <p> <a align="left" href="chetan730366@gmail.com">chetan730366@gmail.com </a> </p>
     </div>
 
 - 🌱 I’m currently learning **front-end developer**
