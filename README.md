@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chetan730366</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alin="right" alt="coding" widh="200"
+<img align="right" alt="coding" widh="200"
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHphOGRkcDc4dnQ2bWR4NnBqeHNiZXNsNmFqOTlseWcxMW83OHNldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
     <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=chetan730366&label=Profile%20views&color=0e75b6&style=flat"
