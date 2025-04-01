@@ -16,7 +16,7 @@
 - 📫 How to reach me **chetan730366**
 
 - 📄 Know about my experiences
-[file:///C:/Users/Chetan/OneDrive/Desktop/chetan%201%20Cv.pdf.pdf](file:///C:/Users/Chetan/OneDrive/Desktop/chetan%201%20Cv.pdf.pdf)
+  https://www.canva.com/design/DAGjSkeb0Xo/owpM_0U6WRUdmLCGuA322Q/edit?utm_content=DAGjSkeb0Xo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 - ⚡ Fun fact **i am funny**
   
