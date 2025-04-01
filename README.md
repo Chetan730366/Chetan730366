@@ -16,8 +16,7 @@
 - 📫 How to reach me **chetan730366**
 
 - 📄 Know about my experiences
-  https://www.canva.com/design/DAGjSkeb0Xo/owpM_0U6WRUdmLCGuA322Q/edit?utm_content=DAGjSkeb0Xo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+ https://drive.google.com/file/d/1IgHNVbz31nnBfQwEG2DswgxKYpuaJFmR/view?usp=sharing
 - ⚡ Fun fact **i am funny**
   
 
