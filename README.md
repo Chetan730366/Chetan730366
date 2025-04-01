@@ -4,6 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=chetan730366" alt="chetan730366" /></a> </p>
+            <img align="right" alt="coding" width="200"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHphOGRkcDc4dnQ2bWR4NnBqeHNiZXNsNmFqOTlseWcxMW83OHNldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
+    <p align="left"> <img <h3 align="left">Languages and Tools:</h3>
 
 - 🌱 I’m currently learning **front-end developer**
 
@@ -13,11 +16,10 @@
 [file:///C:/Users/Chetan/OneDrive/Desktop/chetan%201%20Cv.pdf.pdf](file:///C:/Users/Chetan/OneDrive/Desktop/chetan%201%20Cv.pdf.pdf)
 
 - ⚡ Fun fact **i am funny**
+  
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="200"
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHphOGRkcDc4dnQ2bWR4NnBqeHNiZXNsNmFqOTlseWcxMW83OHNldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
-    <p align="left"> <img <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
     <a href="https://linkedin.com/in/www.linkedin.com/in/chetan-kumar-76a071359" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
